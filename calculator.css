@@ -74,13 +74,13 @@ footer{
     right:0px;
 
 }
-@media (max-width=768px){
+@media (max-width=600px){
     .input{
         width:400px;
         
     }
     footer{
-    width:400px;
+    background-color:aqua;
     
     
     
