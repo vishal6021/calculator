@@ -74,13 +74,14 @@ footer{
     right:0px;
 
 }
-@media (max-width=900){
+@media (max-width=768px){
     .input{
         width:400px;
         
     }
     footer{
-    width:100vw;
+    width:400px;
+    
     
     
     
