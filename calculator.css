@@ -37,7 +37,7 @@ h1{
     font-size: 70px;
 }
 input{
-    width:100vw;
+    width:350px;
     height: 85px;
     border-radius: 30%;
     font-size: 30px;
@@ -73,17 +73,4 @@ footer{
     bottom:0px;
     right:0px;
 
-}
-@media (max-width=600px){
-    .input{
-        width:400px;
-        
-    }
-    footer{
-    background-color:aqua;
-    
-    
-    
-    
-    }
 }
